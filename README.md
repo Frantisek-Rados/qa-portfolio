@@ -10,7 +10,7 @@ Vitajte v mojom portfóliu. Tu nájdete projekty, na ktorých som pracoval.
 |-------|-------|-------|
 | `python-pytest-tests` | API testy, parametrizácia, Playwright UI testy, POM, GitHub Actions CI/CD | [Odkaz](https://github.com/Frantisek-Rados/python-pytest-tests) |
 | `sql-learning` | SQL dotazy – SELECT, JOIN, GROUP BY, podotázky, práca s DBeaver | [Odkaz](https://github.com/Frantisek-Rados/SQL-learning) |
-| `saucedemo-e2e-tests` | Kompletný nákupný proces – prihlásenie, košík, objednávka, odhlásenie | [Odkaz](https://github.com/Frantisek-Rados/saucedemo-e2e-tests) (prídem) |
+| `saucedemo-e2e-tests` | Kompletný nákupný proces – prihlásenie, košík, objednávka, odhlásenie | [Odkaz](https://github.com/Frantisek-Rados/saucedemo-e2e-tests) (príde) |
 
 ---
 
