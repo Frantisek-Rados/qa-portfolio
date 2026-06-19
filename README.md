@@ -1,22 +1,40 @@
-# QA portfólio – František Radoš
-
 ![GitHub followers](https://img.shields.io/github/followers/Frantisek-Rados?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Frantisek-Rados?style=social)
+
+# QA portfólio – František Radoš
 
 Vitajte v mojom portfóliu. Tu nájdete projekty, na ktorých som pracoval.
 
 ---
 
+## Technológie, ktoré používam
+
+- **Jazyky:** Python, SQL
+- **Testovanie:** pytest, Playwright, Postman
+- **Databázy:** SQLite, DBeaver
+- **CI/CD:** GitHub Actions
+- **Version control:** Git, GitHub
+
+---
+
 ## Projekty
 
-| Názov | Popis | Odkaz |
-|-------|-------|-------|
-| `python-pytest-tests` | API testy, parametrizácia, Playwright UI testy, POM, GitHub Actions CI/CD | [Odkaz](https://github.com/Frantisek-Rados/python-pytest-tests) |
-| `sql-learning` | SQL dotazy – SELECT, JOIN, GROUP BY, podotázky, práca s DBeaver | [Odkaz](https://github.com/Frantisek-Rados/SQL-learning) |
-| `saucedemo-e2e-tests` | Kompletný nákupný proces – prihlásenie, košík, objednávka, odhlásenie | [Odkaz](https://github.com/Frantisek-Rados/saucedemo-e2e-tests) (príde) |
+| Názov | Popis | Stav | Odkaz |
+|-------|-------|------|-------|
+| `python-pytest-tests` | API testy, parametrizácia, Playwright UI testy, POM, GitHub Actions CI/CD | ✅ Dokončené | [Odkaz](https://github.com/Frantisek-Rados/python-pytest-tests) |
+| `sql-learning` | SQL dotazy – SELECT, JOIN, GROUP BY, podotázky, práca s DBeaver | ✅ Dokončené | [Odkaz](https://github.com/Frantisek-Rados/SQL-learning) |
+| `saucedemo-e2e-tests` | Kompletný nákupný proces – prihlásenie, košík, objednávka, odhlásenie | ⏳ V príprave | [Odkaz](https://github.com/Frantisek-Rados/saucedemo-e2e-tests) (čoskoro) |
 
 ---
 
 ## O mne
 
 Som junior QA tester. Učím sa automatizáciu, píšem testy v Pythone, používam Playwright a GitHub Actions. Tieto projekty sú dôkazom, že to viem pretaviť do praxe.
+
+---
+
+## Kontakt
+
+Ak máš otázky k projektom alebo sa chceš spojiť, nájdeš ma na:
+- **GitHub:** [Frantisek-Rados](https://github.com/Frantisek-Rados)
+- **LinkedIn:** [František Radoš](https://www.linkedin.com/in/františek-radoš) 
