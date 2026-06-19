@@ -1,5 +1,8 @@
 # QA portfólio – František Radoš
 
+![GitHub followers](https://img.shields.io/github/followers/Frantisek-Rados?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Frantisek-Rados?style=social)
+
 Vitajte v mojom portfóliu. Tu nájdete projekty, na ktorých som pracoval.
 
 ---
