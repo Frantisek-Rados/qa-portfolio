@@ -7,7 +7,7 @@ Vitajte v mojom portfóliu. Tu nájdete projekty, na ktorých som pracoval.
 
 ---
 
-## Technológie, ktoré používam
+## 🛠️ Technológie, ktoré používam
 
 - **Jazyky:** Python, SQL
 - **Testovanie:** pytest, Playwright, Postman
@@ -23,7 +23,8 @@ Vitajte v mojom portfóliu. Tu nájdete projekty, na ktorých som pracoval.
 |-------|-------|------|-------|
 | `python-pytest-tests` | API testy, parametrizácia, Playwright UI testy, POM, GitHub Actions CI/CD | ✅ Dokončené | [Odkaz](https://github.com/Frantisek-Rados/python-pytest-tests) |
 | `sql-learning` | SQL dotazy – SELECT, JOIN, GROUP BY, podotázky, práca s DBeaver | ✅ Dokončené | [Odkaz](https://github.com/Frantisek-Rados/SQL-learning) |
-| `saucedemo-e2e-tests` | Kompletný nákupný proces – prihlásenie, košík, objednávka, odhlásenie | ⏳ V príprave | [Odkaz](https://github.com/Frantisek-Rados/saucedemo-e2e-tests) (čoskoro) |
+| `API-testing-JSONPlaceholder` | Manuálne API testy v Postmanovi – GET, POST, PUT, DELETE | ✅ Dokončené | [Odkaz](https://github.com/Frantisek-Rados/API-testing-JSONPlaceholder) |
+| `saucedemo-e2e-tests` | Kompletný nákupný proces – prihlásenie, košík, objednávka, odhlásenie | ✅ Dokončené | [Odkaz](https://github.com/Frantisek-Rados/saucedemo-e2e-tests) |
 
 ---
 
@@ -33,8 +34,8 @@ Som junior QA tester. Učím sa automatizáciu, píšem testy v Pythone, použí
 
 ---
 
-## Kontakt
+## 📬 Kontakt
 
 Ak máš otázky k projektom alebo sa chceš spojiť, nájdeš ma na:
 - **GitHub:** [Frantisek-Rados](https://github.com/Frantisek-Rados)
-- **LinkedIn:** [František Radoš](https://www.linkedin.com/in/františek-radoš) 
+- **LinkedIn:** [František Radoš](https://www.linkedin.com/in/františek-radoš)
